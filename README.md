@@ -1,0 +1,1 @@
+This code utilizes tkinter to create a GUI with two themed buttons ("design1.TButton" and "design2.TButton"), each with specific color and font mappings. It also includes a Listbox to select colors, which when changed, triggers the button color change using the "change_button_color" function.
